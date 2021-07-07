@@ -1,0 +1,16 @@
+.title {
+    font-size: 45px;
+}
+
+.paragraph {
+    font-size: 20px;
+}
+
+.back {
+    background: #333333;
+    border: none;
+    color: #FFFFFF;
+    font-family: monospace;
+    height: 68px;
+    width: 216px;
+}

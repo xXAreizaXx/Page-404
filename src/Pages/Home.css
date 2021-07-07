@@ -1,0 +1,21 @@
+.not-found {
+    font-family: consolas;
+}
+
+footer {
+    color: #BDBDBD;
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+}
+
+@media (max-width: 650px) {
+    .body {
+        display: flex;
+        flex-direction: column;
+    }
+
+    footer {
+        margin-top: 20px;
+    }
+}
